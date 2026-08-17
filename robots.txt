@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ohgs.co.tz/sitemap.xml

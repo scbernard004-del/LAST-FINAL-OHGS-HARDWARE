@@ -1,0 +1,15 @@
+{
+  "name": "ohgs-static-website",
+  "version": "23.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "node build-static.mjs"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
